@@ -5,4 +5,6 @@ Desenvolvido utilizando HTML, CSS, JavaScript, PHP, MYSQL e Figma. O sistema ofe
 <b>Funcionalidades:</b> Abertura de Ordem de Serviço, Lista de Serviços, Administração de Equipe e Relatórios.
 
 <h4>Modelagem Lógica</h4>
-<img src="Logico.PNG" alt="Modelagem Lógica">
+<div style="max-width: 500px; max-height: 500px;">
+  <img src="Logico.PNG" alt="Modelagem Lógica">
+</div>
