@@ -6,5 +6,5 @@ Desenvolvido utilizando HTML, CSS, JavaScript, PHP, MYSQL e Figma. O sistema ofe
 
 <h4>Modelagem Lógica</h4>
 <div>
-  <img style="max-width: 100px; max-height: 100px;" src="Logico.PNG" alt="Modelagem Lógica">
+  <img style="width: 100px; height: 100px;" src="Logico.PNG" alt="Modelagem Lógica">
 </div>
